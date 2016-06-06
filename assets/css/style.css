@@ -1,0 +1,56 @@
+@import 'common/base';
+.header {
+  background: #AA00FF;
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.back-btn {
+  padding: 1rem;
+  color: #fff;
+  background: #AA00FF;
+  width: 50%;
+  text-align: center;
+  border-radius: 1rem;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+}
+
+.page-btn {
+  padding: 1rem;
+  color: #fff;
+  background: #AA00FF;
+  width: 28%;
+  text-align: center;
+  border-radius: 1rem;
+  margin: 1rem;
+  border: .1rem solid #AA00FF;
+}
+
+.page-enter {
+  padding: 1rem;
+  color: #fff;
+  background: #AA00FF;
+  text-align: center;
+  border-radius: 1rem;
+  margin: 3rem auto 2rem;
+  display: flex;
+  width: 70%;
+  justify-content: center;
+}
+
+.page-box {
+  display: flex;
+}
+
+.active {
+  background: #fff;
+  border: .1rem solid #AA00FF;
+  color: #AA00FF;
+}
